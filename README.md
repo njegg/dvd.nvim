@@ -16,3 +16,7 @@ use {
 }
 ```
 
+## Keymap
+```lua
+vim.keymap.set("n", "<leader>dvd", ":CellularAutomaton dvd<CR>")
+```
